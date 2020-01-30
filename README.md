@@ -20,13 +20,16 @@
   Être contacté insite par les employeurs (téléphone ou mail indique directement si femme/homme/ethnie raciale/jeune/vieux)
   
   Afficher :
+  
     - ces certifications
     - Diplômes
 
 ### Côté employeur (premium)
 
   Accéder à une batterie de test techniques
+  
   Contacter les profils intéressants
+  
   Profils à jours et disponibles (pas de profils fantômes)
 
 ### Côté admin 
@@ -36,11 +39,16 @@
 
 ### Point flou : 
 
-  Possibilité de stage ??? - checker législatif (besoin d’un stagiaire?/remplacement salarié)
+  Possibilité de stage ???
+  
+  - checker législatif (besoin d’un stagiaire?/remplacement salarié)
+  
   Liaison api pour certificats (entre le site et LinkedIn/Open Classroom…)
+  
   RGPD
 
 ### Tarification : 
+
   Abonnement annuel ou mensuel pour les employeurs ? Journalier ?
 
 
