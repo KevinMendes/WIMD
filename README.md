@@ -10,6 +10,7 @@
     sélection par télétravail ou non
     par type de contrat
     sélection par tech
+    Télécharger le CV anonymisé au format PDF
 
 ### Site côté chercheur d’emploi connecté
   Possibilité de créer son CV
